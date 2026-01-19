@@ -1,5 +1,3 @@
-
-// Initialize AOS Animation
 AOS.init({
     duration: 1000,
     once: true,
@@ -55,3 +53,32 @@ window.addEventListener('scroll', function () {
         }
     });
 });
+
+// Mobile Mega Menu Toggle
+document.addEventListener('DOMContentLoaded', function () {
+    const dropdownToggle = document.querySelector('.dropdown-toggle');
+    const dropdown = document.querySelector('.nav-item.dropdown');
+
+    if (window.innerWidth <= 991) {
+        dropdownToggle.addEventListener('click', function (e) {
+            e.preventDefault();
+            dropdown.classList.toggle('show');
+        });
+    }
+
+    // Close mega menu when clicking outside
+    document.addEventListener('click', function (e) {
+        if (!dropdown.contains(e.target)) {
+            dropdown.classList.remove('show');
+        }
+    });
+});
+
+// Handle window resize
+window.addEventListener('resize', function () {
+    const dropdown = document.querySelector('.nav-item.dropdown');
+    if (window.innerWidth > 991) {
+        dropdown.classList.remove('show');
+    }
+});
+
