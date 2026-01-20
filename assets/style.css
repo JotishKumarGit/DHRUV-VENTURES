@@ -1,10 +1,19 @@
-:root {
+/* :root {
     --primary: #2E7D32;
     --secondary: #FF6F00;
     --accent: #FFA726;
     --dark: #1B5E20;
     --light: #F1F8E9;
+} */
+:root {
+    --primary: #f204f1;
+    --secondary: #fe7d77;
+    --accent: #b217c6;
+    --dark: #010101;
+    --light: #F1F8E9;
 }
+
+/* black #010101 , pink #f204f1 , some pink #fe7d77 */
 
 * {
     margin: 0;
@@ -207,7 +216,7 @@ body {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(135deg, rgba(46, 125, 50, 0.9), rgba(27, 94, 32, 0.9)), url('./img/Fruits.jpg');
+    background: linear-gradient(135deg, rgba(138, 45, 122, 0.9), rgba(17, 4, 19, 0.9)), url('./img/Fruits.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -432,7 +441,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, rgba(46, 125, 50, 0.8), rgba(255, 111, 0, 0.8));
+    background: linear-gradient(135deg, rgba(46, 125, 50, 0.8), rgba(145, 44, 140, 0.8));
     display: flex;
     align-items: center;
     justify-content: center;
