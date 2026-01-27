@@ -29,10 +29,10 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
                 <img src="./assets/img/DHRUV-VENTURES-logo.jpeg" height="80px" width="100%" alt="">
             </a>
-            <a class="navbar-brand d-none d-lg-block" href="index.html">
+            <a class="navbar-brand d-none d-lg-block" href="index.php">
                 DHRUV VENTURES
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
@@ -40,8 +40,8 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto align-items-center">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
                     <!-- Mega Menu Products -->
                     <li class="nav-item dropdown">
@@ -61,16 +61,16 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-apple-alt"></i> Fruits
                                             </strong>
-                                            <a href="Banana.html" class="mega-menu-item">
+                                            <a href="Banana.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Banana
                                             </a>
-                                            <a href="Guava.html" class="mega-menu-item">
+                                            <a href="Guava.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Guava
                                             </a>
-                                            <a href="Mango.html" class="mega-menu-item">
+                                            <a href="Mango.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Mango
                                             </a>
-                                            <a href="Jackfruit.html" class="mega-menu-item">
+                                            <a href="Jackfruit.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Jackfruit
                                             </a>
                                         </div>
@@ -79,7 +79,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-carrot"></i> Vegetables
                                             </strong>
-                                            <a href="Onion.html" class="mega-menu-item">
+                                            <a href="Onion.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Onion
                                             </a>
                                         </div>
@@ -88,7 +88,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-seedling"></i> Grains
                                             </strong>
-                                            <a href="Rice.html" class="mega-menu-item">
+                                            <a href="Rice.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Rice
                                             </a>
                                         </div>
@@ -103,7 +103,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-plug"></i> Power Backup
                                             </strong>
-                                            <a href="Inverter.html" class="mega-menu-item">
+                                            <a href="Inverter.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Inverter
                                             </a>
                                         </div>
@@ -112,7 +112,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-car-battery"></i> Energy Storage
                                             </strong>
-                                            <a href="Industrial-Batteries.html" class="mega-menu-item">
+                                            <a href="Industrial-Batteries.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Industrial
                                                 Batteries
                                             </a>
@@ -122,7 +122,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-solar-panel"></i> Renewable Energy
                                             </strong>
-                                            <a href="Solar-Panels.html" class="mega-menu-item">
+                                            <a href="Solar-Panels.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Solar Panels
                                             </a>
                                         </div>
@@ -137,7 +137,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-tshirt"></i> Fashion
                                             </strong>
-                                            <a href="Ladies-Handbag.html" class="mega-menu-item">
+                                            <a href="Ladies-Handbag.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Ladies Handbag
                                             </a>
                                         </div>
@@ -148,9 +148,9 @@
                         </div>
                     </li>
 
-                    <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-                    <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                     <li class="nav-item"><button class="btn-quote" data-bs-toggle="modal"
                             data-bs-target="#enquiryModal">Get A Quote</button></li>
                 </ul>
@@ -163,12 +163,12 @@
     <section class="breadcrumb-section">
         <div class="container">
             <div class="breadcrumb-content">
-                <h1>Contact Us</h1>
+                <h1>Industrial Batteries</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active" style="color:rgb(214, 9, 233) ;" aria-current="page">Contact
-                            Us
+                        <li class="breadcrumb-item active" style="color:rgb(214, 9, 233) ;" aria-current="page">
+                            Industrial Batteries
                         </li>
                     </ol>
                 </nav>
@@ -176,94 +176,28 @@
         </div>
     </section>
 
-    <!-- Contact Section -->
-    <section id="contact" class="contact-section">
+    <!-- Product Details Section for Industrial Battery -->
+    <section class="py-5">
         <div class="container">
-            <div class="text-center" data-aos="fade-up">
-                <h2 class="section-title">Contact Us</h2>
-                <p class="lead">Get In Touch With Us</p>
-            </div>
-            <div class="row mt-5">
-                <div class="col-lg-6 mb-2" data-aos="fade-right" data-aos-delay="100">
-                    <div class="contact-form">
-                        <h3 class="mb-4">Send Us A Message</h3>
-                        <form id="contactForm">
-                            <div class="mb-3">
-                                <label class="form-label">Your Name</label>
-                                <input type="text" class="form-control" placeholder="Enter your name" required>
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">Email Address</label>
-                                <input type="email" class="form-control" placeholder="Enter your email" required>
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">Phone Number</label>
-                                <input type="tel" class="form-control" placeholder="Enter your phone" required>
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">Product Interest</label>
-                                <select class="form-control">
-                                    <option>Select Product</option>
-                                    <option>Rice</option>
-                                    <option>Fresh Fruits</option>
-                                    <option>Ladies Handbags</option>
-                                    <option>Industrial Batteries</option>
-                                    <option>Inverters</option>
-                                    <option>Solar Panels</option>
-                                </select>
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label">Message</label>
-                                <textarea class="form-control" rows="4" placeholder="Your message here..."></textarea>
-                            </div>
-                            <button type="submit" class="btn-quote w-100 mb-3">
-                                <i class="fas fa-paper-plane"></i> Send Message
-                            </button>
-                            <button type="button" class="btn-whatsapp w-100" onclick="openWhatsApp()">
-                                <i class="fab fa-whatsapp"></i> Chat on WhatsApp
-                            </button>
-                        </form>
-                    </div>
+            <div class="row align-items-center g-4">
+                <!-- Product Image -->
+                <div class="col-md-6">
+                    <img src="./assets/img/Industrial-Battery.jpg" class="img-fluid rounded" alt="Industrial Battery">
                 </div>
-                <div class="col-lg-6" data-aos="fade-left" data-aos-delay="200">
-                    <div class="contact-info">
-                        <h3 class="mb-4">Contact Information</h3>
-                        <div class="contact-item">
-                            <i class="fas fa-map-marker-alt"></i>
-                            <div>
-                                <h5>Address</h5>
-                                <p>Shop no 3 Rachana Sukurt, Tilaknagar<br>Dombivli East, Maharastra - 421203, INDIA</p>
-                            </div>
-                        </div>
-                        <div class="contact-item">
-                            <i class="fas fa-phone"></i>
-                            <div>
-                                <h5>Phone</h5>
-                                <p>+91-9892117648<br>+91-9930948180</p>
-                            </div>
-                        </div>
-                        <div class="contact-item">
-                            <i class="fas fa-envelope"></i>
-                            <div>
-                                <h5>Email</h5>
-                                <p>info@dhruvventures.com</p>
-                            </div>
-                        </div>
-                        <div class="contact-item">
-                            <i class="fas fa-globe"></i>
-                            <div>
-                                <h5>Countries We Serve</h5>
-                                <p>India | Dubai | Thailand | Iran</p>
-                            </div>
-                        </div>
-                        <div class="contact-item">
-                            <i class="fas fa-clock"></i>
-                            <div>
-                                <h5>Business Hours</h5>
-                                <p>Monday - Saturday: 9:00 AM - 7:00 PM<br>Sunday: Closed</p>
-                            </div>
-                        </div>
-                    </div>
+
+                <!-- Product Details -->
+                <div class="col-md-6">
+                    <h2 class="fw-bold mb-3">Industrial Battery</h2>
+                    <p>Our Industrial Batteries are designed for high-performance and long-lasting reliability. Ideal
+                        for factories, power backup systems, and heavy-duty equipment, these batteries deliver
+                        consistent power output, durability, and efficiency. Manufactured using premium materials, they
+                        ensure safety and optimal performance under demanding conditions.</p>
+                    <p><strong>Availability:</strong> In Stock</p>
+                    <p><strong>Keywords:</strong> Heavy-Duty Battery, High Performance, Reliable Power, Industrial
+                        Equipment, Long-Lasting, Durable, Safety Certified</p>
+                    <!-- Enquiry button without email -->
+                    <button class="btn btn-success fw-bold" data-bs-toggle="modal"
+                        data-bs-target="#enquiryModal">Enquiry Now</button>
                 </div>
             </div>
         </div>

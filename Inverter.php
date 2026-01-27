@@ -29,10 +29,10 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
                 <img src="./assets/img/DHRUV-VENTURES-logo.jpeg" height="80px" width="100%" alt="">
             </a>
-            <a class="navbar-brand d-none d-lg-block" href="index.html">
+            <a class="navbar-brand d-none d-lg-block" href="index.php">
                 DHRUV VENTURES
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
@@ -40,8 +40,8 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto align-items-center">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
                     <!-- Mega Menu Products -->
                     <li class="nav-item dropdown">
@@ -61,16 +61,16 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-apple-alt"></i> Fruits
                                             </strong>
-                                            <a href="Banana.html" class="mega-menu-item">
+                                            <a href="Banana.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Banana
                                             </a>
-                                            <a href="Guava.html" class="mega-menu-item">
+                                            <a href="Guava.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Guava
                                             </a>
-                                            <a href="Mango.html" class="mega-menu-item">
+                                            <a href="Mango.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Mango
                                             </a>
-                                            <a href="Jackfruit.html" class="mega-menu-item">
+                                            <a href="Jackfruit.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Jackfruit
                                             </a>
                                         </div>
@@ -79,7 +79,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-carrot"></i> Vegetables
                                             </strong>
-                                            <a href="Onion.html" class="mega-menu-item">
+                                            <a href="Onion.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Onion
                                             </a>
                                         </div>
@@ -88,7 +88,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-seedling"></i> Grains
                                             </strong>
-                                            <a href="Rice.html" class="mega-menu-item">
+                                            <a href="Rice.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Rice
                                             </a>
                                         </div>
@@ -103,7 +103,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-plug"></i> Power Backup
                                             </strong>
-                                            <a href="Inverter.html" class="mega-menu-item">
+                                            <a href="Inverter.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Inverter
                                             </a>
                                         </div>
@@ -112,7 +112,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-car-battery"></i> Energy Storage
                                             </strong>
-                                            <a href="Industrial-Batteries.html" class="mega-menu-item">
+                                            <a href="Industrial-Batteries.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Industrial
                                                 Batteries
                                             </a>
@@ -122,7 +122,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-solar-panel"></i> Renewable Energy
                                             </strong>
-                                            <a href="Solar-Panels.html" class="mega-menu-item">
+                                            <a href="Solar-Panels.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Solar Panels
                                             </a>
                                         </div>
@@ -137,7 +137,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-tshirt"></i> Fashion
                                             </strong>
-                                            <a href="Ladies-Handbag.html" class="mega-menu-item">
+                                            <a href="Ladies-Handbag.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Ladies Handbag
                                             </a>
                                         </div>
@@ -148,9 +148,9 @@
                         </div>
                     </li>
 
-                    <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-                    <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                     <li class="nav-item"><button class="btn-quote" data-bs-toggle="modal"
                             data-bs-target="#enquiryModal">Get A Quote</button></li>
                 </ul>
@@ -163,12 +163,11 @@
     <section class="breadcrumb-section">
         <div class="container">
             <div class="breadcrumb-content">
-                <h1>Industrial Batteries</h1>
+                <h1>Inverter</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb justify-content-center">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active" style="color:rgb(214, 9, 233) ;" aria-current="page">
-                            Industrial Batteries
+                        <li class="breadcrumb-item active" style="color:rgb(214, 9, 233) ;" aria-current="page">Inverter
                         </li>
                     </ol>
                 </nav>
@@ -176,25 +175,25 @@
         </div>
     </section>
 
-    <!-- Product Details Section for Industrial Battery -->
+    <!-- Product Details Section for Inverter -->
     <section class="py-5">
         <div class="container">
             <div class="row align-items-center g-4">
                 <!-- Product Image -->
                 <div class="col-md-6">
-                    <img src="./assets/img/Industrial-Battery.jpg" class="img-fluid rounded" alt="Industrial Battery">
+                    <img src="./assets/img/Inverter.jpg" class="img-fluid rounded" alt="Inverter">
                 </div>
 
                 <!-- Product Details -->
                 <div class="col-md-6">
-                    <h2 class="fw-bold mb-3">Industrial Battery</h2>
-                    <p>Our Industrial Batteries are designed for high-performance and long-lasting reliability. Ideal
-                        for factories, power backup systems, and heavy-duty equipment, these batteries deliver
-                        consistent power output, durability, and efficiency. Manufactured using premium materials, they
-                        ensure safety and optimal performance under demanding conditions.</p>
+                    <h2 class="fw-bold mb-3">Inverter</h2>
+                    <p>Our Inverters provide reliable and efficient power backup for homes, offices, and industrial
+                        applications. Designed for smooth performance, these inverters ensure uninterrupted power supply
+                        during outages, protect appliances, and optimize energy usage. Built with advanced technology,
+                        they are durable, safe, and energy-efficient.</p>
                     <p><strong>Availability:</strong> In Stock</p>
-                    <p><strong>Keywords:</strong> Heavy-Duty Battery, High Performance, Reliable Power, Industrial
-                        Equipment, Long-Lasting, Durable, Safety Certified</p>
+                    <p><strong>Keywords:</strong> Power Backup, Energy Efficient, Reliable, Home & Industrial Use,
+                        Durable, Advanced Technology</p>
                     <!-- Enquiry button without email -->
                     <button class="btn btn-success fw-bold" data-bs-toggle="modal"
                         data-bs-target="#enquiryModal">Enquiry Now</button>
@@ -202,6 +201,7 @@
             </div>
         </div>
     </section>
+
 
     <!-- Footer -->
     <footer class="footer">

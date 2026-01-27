@@ -29,10 +29,10 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
                 <img src="./assets/img/DHRUV-VENTURES-logo.jpeg" height="80px" width="100%" alt="">
             </a>
-            <a class="navbar-brand d-none d-lg-block" href="index.html">
+            <a class="navbar-brand d-none d-lg-block" href="index.php">
                 DHRUV VENTURES
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
@@ -40,8 +40,8 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto align-items-center">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
                     <!-- Mega Menu Products -->
                     <li class="nav-item dropdown">
@@ -61,16 +61,16 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-apple-alt"></i> Fruits
                                             </strong>
-                                            <a href="Banana.html" class="mega-menu-item">
+                                            <a href="Banana.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Banana
                                             </a>
-                                            <a href="Guava.html" class="mega-menu-item">
+                                            <a href="Guava.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Guava
                                             </a>
-                                            <a href="Mango.html" class="mega-menu-item">
+                                            <a href="Mango.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Mango
                                             </a>
-                                            <a href="Jackfruit.html" class="mega-menu-item">
+                                            <a href="Jackfruit.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Jackfruit
                                             </a>
                                         </div>
@@ -79,7 +79,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-carrot"></i> Vegetables
                                             </strong>
-                                            <a href="Onion.html" class="mega-menu-item">
+                                            <a href="Onion.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Onion
                                             </a>
                                         </div>
@@ -88,7 +88,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-seedling"></i> Grains
                                             </strong>
-                                            <a href="Rice.html" class="mega-menu-item">
+                                            <a href="Rice.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Rice
                                             </a>
                                         </div>
@@ -103,7 +103,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-plug"></i> Power Backup
                                             </strong>
-                                            <a href="Inverter.html" class="mega-menu-item">
+                                            <a href="Inverter.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Inverter
                                             </a>
                                         </div>
@@ -112,7 +112,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-car-battery"></i> Energy Storage
                                             </strong>
-                                            <a href="Industrial-Batteries.html" class="mega-menu-item">
+                                            <a href="Industrial-Batteries.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Industrial
                                                 Batteries
                                             </a>
@@ -122,7 +122,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-solar-panel"></i> Renewable Energy
                                             </strong>
-                                            <a href="Solar-Panels.html" class="mega-menu-item">
+                                            <a href="Solar-Panels.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Solar Panels
                                             </a>
                                         </div>
@@ -137,7 +137,7 @@
                                                 style="color: var(--primary); font-size: 16px; display: block; margin-bottom: 8px;">
                                                 <i class="fas fa-tshirt"></i> Fashion
                                             </strong>
-                                            <a href="Ladies-Handbag.html" class="mega-menu-item">
+                                            <a href="Ladies-Handbag.php" class="mega-menu-item">
                                                 <i class="fas fa-circle" style="font-size: 6px;"></i> Ladies Handbag
                                             </a>
                                         </div>
@@ -148,9 +148,9 @@
                         </div>
                     </li>
 
-                    <li class="nav-item"><a class="nav-link" href="services.html">Services</a></li>
-                    <li class="nav-item"><a class="nav-link" href="gallery.html">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
+                    <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                     <li class="nav-item"><button class="btn-quote" data-bs-toggle="modal"
                             data-bs-target="#enquiryModal">Get A Quote</button></li>
                 </ul>
